@@ -47,6 +47,12 @@ print(result)
 
 ## Output:
 
+(i)  
+<img width="1485" height="844" alt="image" src="https://github.com/user-attachments/assets/250f4ec6-b417-4098-8aa6-f0e4f2e22c8a" />
+
+(ii)
+<img width="1436" height="856" alt="image" src="https://github.com/user-attachments/assets/669caa70-1f8f-4581-8fcd-2eb546d52a77" />
+
 
 
 ## Result:
